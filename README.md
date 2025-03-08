@@ -1,6 +1,22 @@
-Depois de terminar o curso básico de Javascript, dei inicio a estudos em NODE.JS
-Nesse projeto eu reaproveitei um dos projeto que tinha colocado no meu repositório para subir ele em uma URL local usando sintaxe do Node.js e modulos do Express.js
-Esse foi apenas um conceito inicial, meu intuíto com esse projeto é adicionar mais camadas nele usando modulação de portas URL 
+# 🔐 Projeto de Criptografia Numérica
 
+## 📌 Sobre o Projeto
 
-Caso tenha alguma sujestão fico grato, obrigado pela atenção 
+### Este projeto realiza a criptografia de palavras, convertendo cada letra em seu número correspondente no alfabeto. Ele possui uma interface simples desenvolvida em HTML, CSS e JavaScript, e um servidor local criado com Node.js e Express para servir os arquivos estáticos.
+<br>
+
+# 🚀 Tecnologias Utilizadas
+
+### HTML5 e CSS3 para a interface gráfica
+
+### JavaScript  para manipulação do DOM e criptografia
+
+### Node.js com Express.js para servir o projeto localmente
+<br>
+
+# 📌 Estrutura do Projeto
+## 📂 Criptografia
+│-- 📄 cripto.html  # Interface da aplicação <br>
+│-- 📄 cripto.css  # Estilização <br>
+│-- 📄 cripto.js  # Lógica de criptografia <br>
+│-- 📄 server.js  # Servidor local com Node.js e Express
